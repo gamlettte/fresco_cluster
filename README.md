@@ -12,11 +12,11 @@
 **FrescoCluster** is an advanced desktop application designed for digital analysis and clustering of fresco images using the **K-means algorithm** with grid optimization. Developed for art historians, restorers, and digital humanities researchers, this tool enables precise color structure analysis of frescoes.
 
 ### **Key Features**
-✔ **Grid-Based Clustering** – Apply K-means with adjustable grid steps for precise analysis
-✔ **Real-Time Preview** – Instant visualization of clustering results with opacity control
-✔ **Performance Optimized** – Uses **MiniBatch K-means** for fast processing of large images
-✔ **User-Friendly UI** – Modern interface built with **CustomTkinter**
-✔ **Benchmarking Support** – Includes tools for performance measurement and optimization
+✔ **Grid-Based Clustering** – Apply K-means with adjustable grid steps for precise analysis  
+✔ **Real-Time Preview** – Instant visualization of clustering results with opacity control  
+✔ **Performance Optimized** – Uses **MiniBatch K-means** for fast processing of large images  
+✔ **User-Friendly UI** – Modern interface built with **CustomTkinter**  
+✔ **Benchmarking Support** – Includes tools for performance measurement and optimization  
 
 ---
 
